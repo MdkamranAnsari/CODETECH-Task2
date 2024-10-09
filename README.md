@@ -25,3 +25,5 @@ Styles the app with a modern, clean look, using gradients and subtle shadows. Pr
 JavaScript (app.js):
 
 Contains the logic to handle user input and fetch weather data from the API. Updates the DOM elements dynamically based on the fetched data. Manages the visibility and styling of elements based on user interactions.
+
+![Screenshot 2024-09-11 010928](https://github.com/user-attachments/assets/cb45b6f0-05f0-4a71-99ba-e87f0d187003)
